@@ -1,0 +1,6 @@
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-3\ООП1-3\bin\Debug\ООП1-3.exe.config
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-3\ООП1-3\bin\Debug\ООП1-3.exe
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-3\ООП1-3\bin\Debug\ООП1-3.pdb
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-3\ООП1-3\obj\Debug\ООП1-3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-3\ООП1-3\obj\Debug\ООП1-3.exe
+C:\Users\Asus\Google Диск\Новая папка\прог\ООП1-3\ООП1-3\obj\Debug\ООП1-3.pdb
